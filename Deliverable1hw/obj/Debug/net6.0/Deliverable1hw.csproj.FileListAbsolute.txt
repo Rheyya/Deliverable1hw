@@ -1,0 +1,14 @@
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\bin\Debug\net6.0\Deliverable1hw.exe
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\bin\Debug\net6.0\Deliverable1hw.deps.json
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\bin\Debug\net6.0\Deliverable1hw.runtimeconfig.json
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\bin\Debug\net6.0\Deliverable1hw.dll
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\bin\Debug\net6.0\Deliverable1hw.pdb
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\obj\Debug\net6.0\Deliverable1hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\obj\Debug\net6.0\Deliverable1hw.AssemblyInfoInputs.cache
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\obj\Debug\net6.0\Deliverable1hw.AssemblyInfo.cs
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\obj\Debug\net6.0\Deliverable1hw.csproj.CoreCompileInputs.cache
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\obj\Debug\net6.0\Deliverable1hw.dll
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\obj\Debug\net6.0\refint\Deliverable1hw.dll
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\obj\Debug\net6.0\Deliverable1hw.pdb
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\obj\Debug\net6.0\Deliverable1hw.genruntimeconfig.cache
+C:\Users\Rheyya\source\repos\Deliverable1hw\Deliverable1hw\obj\Debug\net6.0\ref\Deliverable1hw.dll
